@@ -71,7 +71,7 @@ ul.sf-menu li li li.sfHover ul {
 	background:		transparent;
 }
 .sf-menu li li {
-	background:	url('../images/sf-menu-bg.png') no-repeat 0 100%;
+	background:	url('sf-menu-bg.png') no-repeat 0 100%;
 }
 .sf-menu li:hover, .sf-menu li.sfHover,
 .sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
@@ -96,11 +96,11 @@ ul.sf-menu li li li.sfHover ul {
 }
 /* indicator image for light background */
 .sf-sub-indicator {
-	background:		url('../images/auto-arrows.png') no-repeat -10px -100px !important; /* 8-bit indexed alpha png. IE6 gets solid image only */
+	background:		url('auto-arrows.png') no-repeat -10px -100px !important; /* 8-bit indexed alpha png. IE6 gets solid image only */
 }
 /* indicator image for dark background */
 .top-bg-color-dark .sf-sub-indicator {
-	background:		url('../images/auto-arrows.png') no-repeat -30px -100px !important; /* 8-bit indexed alpha png. IE6 gets solid image only */
+	background:		url('auto-arrows.png') no-repeat -30px -100px !important; /* 8-bit indexed alpha png. IE6 gets solid image only */
 }
 
 a > .sf-sub-indicator {  /* give all except IE6 the correct values */
