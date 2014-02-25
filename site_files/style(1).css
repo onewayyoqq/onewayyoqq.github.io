@@ -160,19 +160,19 @@ margin-left:17px;
 
 #search input.inputbox_focus {
 
-    background: transparent url(../images/searchbox.png) no-repeat scroll 0 -26px;
+    background: transparent url(searchbox.png) no-repeat scroll 0 -26px;
 
 }
 
 #search input.blur {
 
-    background: transparent url(../images/searchbox.png) no-repeat scroll 0 0;
+    background: transparent url(searchbox.png) no-repeat scroll 0 0;
 
 }
 
 #search input.search-btn {
 
-    background:transparent url(../images/searchbox.png) no-repeat scroll 100% 0;
+    background:transparent url(searchbox.png) no-repeat scroll 100% 0;
 
     border: 0 none;
 
