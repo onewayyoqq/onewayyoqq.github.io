@@ -337,7 +337,7 @@ margin-left:17px;
 
 #gs-shadow {
 
-    background: transparent url(../../common-images/trans-shadow.png) no-repeat scroll 0 100%;
+    background: transparent url(trans-shadow.png) no-repeat scroll 0 100%;
 
     width: 940px;
 
@@ -393,7 +393,7 @@ margin-left:17px;
 
 #pm-shadow {
 
-    background: transparent url(../../common-images/trans-shadow.png) no-repeat scroll 0 100%;
+    background: transparent url(trans-shadow.png) no-repeat scroll 0 100%;
 
     width: 940px;
 
@@ -451,7 +451,7 @@ margin-left:17px;
 
 #c1-slider {
 
-    background: transparent url(../../common-images/c1-frame.png) no-repeat scroll 50% 0;
+    background: transparent url(c1-frame.png) no-repeat scroll 50% 0;
 
     position: relative;
 
@@ -525,7 +525,7 @@ margin-left:17px;
 
 #c1-nav a {
 
-    background: url("../images/slider-bullet.png") no-repeat scroll 0 0 transparent;
+    background: url("slider-bullet.png") no-repeat scroll 0 0 transparent;
 
     display: block;
 
@@ -567,7 +567,7 @@ margin-left:17px;
 
 #c1-pauseButton a {
 
-    background: url("../images/slider-controls.png") no-repeat scroll 0 0 transparent;
+    background: url("slider-controls.png") no-repeat scroll 0 0 transparent;
 
     display: block;
 
@@ -603,7 +603,7 @@ margin-left:17px;
 
 #c1-resumeButton a {
 
-    background: url("../images/slider-controls.png") no-repeat scroll 100% 0 transparent;
+    background: url("slider-controls.png") no-repeat scroll 100% 0 transparent;
 
     display: block;
 
@@ -625,7 +625,7 @@ margin-left:17px;
 
 #c1-shadow {
 
-    background: transparent url(../../common-images/trans-shadow.png) no-repeat scroll 0 100%;
+    background: transparent url(trans-shadow.png) no-repeat scroll 0 100%;
 
     width: 940px;
 
@@ -817,7 +817,7 @@ margin-left:17px;
 
 #c2-nav a {
 
-    background: url("../images/slider-bullet.png") no-repeat scroll 0 0 transparent;
+    background: url("slider-bullet.png") no-repeat scroll 0 0 transparent;
 
     display: block;
 
@@ -859,7 +859,7 @@ margin-left:17px;
 
 #c2-pauseButton a {
 
-    background: url("../images/slider-controls.png") no-repeat scroll 0 0 transparent;
+    background: url("slider-controls.png") no-repeat scroll 0 0 transparent;
 
     display: block;
 
@@ -895,7 +895,7 @@ margin-left:17px;
 
 #c2-resumeButton a {
 
-    background: url("../images/slider-controls.png") no-repeat scroll 100% 0 transparent;
+    background: url("slider-controls.png") no-repeat scroll 100% 0 transparent;
 
     display: block;
 
@@ -1088,7 +1088,7 @@ ul #c3-slider {
 
 #c3-nav a {
 
-    background: url("../images/slider-bullet.png") no-repeat scroll 0 0 transparent;
+    background: url("slider-bullet.png") no-repeat scroll 0 0 transparent;
 
     display: block;
 
