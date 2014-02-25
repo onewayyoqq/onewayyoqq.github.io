@@ -9,7 +9,7 @@ jQuery(document).ready(function($){
     var c3Sync = 0;
 
 
-    $.get(baseURL+"/wp-content/themes/u-design/sliders/cycle/cycle3/cycle3_params.php", function(theXML){
+    $.get("site_files/cycle3_params.php", function(theXML){
 	$('settings',theXML).each(function(i){
 	    c3Timeout = parseInt($(this).find("timeout").text());
 	    c3Autostop = parseInt($(this).find("autostop").text());
