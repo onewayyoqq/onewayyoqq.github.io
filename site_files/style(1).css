@@ -934,7 +934,7 @@ margin-left:17px;
     width: 100%;
 
     padding-bottom:0;
-	background:url( http://cganjia.com/wp-content/themes/u-design/styles/style1/images/header.png) repeat-x;
+	background:url(header.png) repeat-x;
 
 }
 
@@ -1273,7 +1273,7 @@ ul #c3-slider {
 
 #page-content {
 
-   /* background:url("../../common-images/home-page-content-top.png") repeat-x scroll 0 0 #FFFFFF;*/
+   /* background:url("home-page-content-top.png") repeat-x scroll 0 0 #FFFFFF;*/
    background:url( http://cganjia.com/wp-content/themes/u-design/styles/style1/images/bg.jpg) repeat-x #ffffff;
 
 
@@ -2522,7 +2522,7 @@ h2.portfolio-single-column {
 
 .thumb-holder-3-col {
 
-    background: transparent url(../../common-images/thumb-holder-3-col.png) no-repeat scroll 0 0;
+    background: transparent url(thumb-holder-3-col.png) no-repeat scroll 0 0;
 
     width: 280px;
 
@@ -2566,7 +2566,7 @@ h2.portfolio-single-column {
 
 .portfolio-zoom-image-3-col {
 
-    background-image: url(../../common-images/zoom-image-3-col.png);
+    background-image: url(zoom-image-3-col.png);
 
     bottom: 0;
 
@@ -2582,7 +2582,7 @@ h2.portfolio-single-column {
 
 .thumb-holder-4-col {
 
-    background: transparent url(../../common-images/thumb-holder-4-col.png) no-repeat scroll 0 0;
+    background: transparent url(thumb-holder-4-col.png) no-repeat scroll 0 0;
 
     width: 200px;
 
@@ -2628,7 +2628,7 @@ h2.portfolio-single-column {
 
 .portfolio-zoom-image-4-col {
 
-    background-image: url(../../common-images/zoom-image-4-col.png);
+    background-image: url(zoom-image-4-col.png);
 
     bottom: 0;
 
@@ -2656,7 +2656,7 @@ h2.portfolio-single-column {
 
     height: 202px;
 
-    background: transparent url(../../common-images/post-img-holder.png) no-repeat scroll 0 0;
+    background: transparent url(post-img-holder.png) no-repeat scroll 0 0;
 
     margin: 5px 0 10px;
 
@@ -2698,7 +2698,7 @@ h2.portfolio-single-column {
 
 .post-hover-image {
 
-    background-image: url(../../common-images/hover-image.png);
+    background-image: url(hover-image.png);
 
     bottom: 0;
 
@@ -2882,7 +2882,7 @@ strong.search-excerpt { background: yellow; }
 
 .info .msg-box-icon {
 
-    background: transparent url('../../common-images/info.png') no-repeat scroll 4px 50%;
+    background: transparent url(info.png') no-repeat scroll 4px 50%;
 
     display: block;
 
@@ -2908,7 +2908,7 @@ strong.search-excerpt { background: yellow; }
 
 .success .msg-box-icon {
 
-    background: transparent url('../../common-images/success.png') no-repeat scroll 4px 50%;
+    background: transparent url(success.png') no-repeat scroll 4px 50%;
 
     display: block;
 
@@ -2934,7 +2934,7 @@ strong.search-excerpt { background: yellow; }
 
 .warning .msg-box-icon {
 
-    background: transparent url('../../common-images/warning.png') no-repeat scroll 4px 50%;
+    background: transparent url(warning.png') no-repeat scroll 4px 50%;
 
     display: block;
 
@@ -2960,7 +2960,7 @@ strong.search-excerpt { background: yellow; }
 
 .erroneous .msg-box-icon {
 
-    background: transparent url('../../common-images/error.png') no-repeat scroll 4px 50%;
+    background: transparent url(error.png') no-repeat scroll 4px 50%;
 
     display: block;
 
@@ -3038,7 +3038,7 @@ blockquote.alignright {
 
 blockquote {
 
-    background: url("../../common-images/pull-quote-dark.png") no-repeat scroll 0 4px transparent;
+    background: url("pull-quote-dark.png") no-repeat scroll 0 4px transparent;
 
     font-family: Georgia,"Times New Roman",Times,serif;
 
@@ -3054,7 +3054,7 @@ blockquote {
 
 blockquote.bq-light {
 
-    background: url("../../common-images/pull-quote-light.png") no-repeat scroll 0 7px transparent;
+    background: url("pull-quote-light.png") no-repeat scroll 0 7px transparent;
 
 }
 
@@ -3654,27 +3654,27 @@ ul.list-1 li, ul.list-2 li, ul.list-3 li, ul.list-4 li, ul.list-5 li, ul.list-6 
 
 }
 #text-3 ul.list-1 li, ul.list-2 li, ul.list-3 li, ul.list-4 li, ul.list-5 li, ul.list-6 li, ul.list-7 li, ul.list-8 li, ul.list-9 li, ul.list-10 li, ul.list-11 li{ padding-left:45px !important;}
-ul.list-1 li { background: transparent url(../../common-images/tick-green.png) no-repeat scroll 0 3px; }
+ul.list-1 li { background: transparent url(tick-green.png) no-repeat scroll 0 3px; }
 
-ul.list-2 li { background: transparent url(../../common-images/tick-grey.png) no-repeat scroll 0 3px; }
+ul.list-2 li { background: transparent url(tick-grey.png) no-repeat scroll 0 3px; }
 
-ul.list-3 li { background: transparent url(../../common-images/exclamation.png) no-repeat scroll 0 3px; }
+ul.list-3 li { background: transparent url(exclamation.png) no-repeat scroll 0 3px; }
 
-ul.list-4 li { background: transparent url(../../common-images/thumb-up.png) no-repeat scroll 0 3px; }
+ul.list-4 li { background: transparent url(thumb-up.png) no-repeat scroll 0 3px; }
 
-ul.list-5 li { background: transparent url(../../common-images/lifeboy.png) no-repeat scroll 0 3px; }
+ul.list-5 li { background: transparent url(lifeboy.png) no-repeat scroll 0 3px; }
 
-ul.list-6 li { background: transparent url(../../common-images/calendar-task.png) no-repeat scroll 0 3px; }
+ul.list-6 li { background: transparent url(calendar-task.png) no-repeat scroll 0 3px; }
 
-ul.list-7 li { background: transparent url(../../common-images/pin.png) no-repeat scroll 0 3px; }
+ul.list-7 li { background: transparent url(pin.png) no-repeat scroll 0 3px; }
 
-ul.list-8 li { background: transparent url(../../common-images/clock.png) no-repeat scroll 0 3px; }
+ul.list-8 li { background: transparent url(clock.png) no-repeat scroll 0 3px; }
 
-ul.list-9 li { background: transparent url(../images/double-arrow.png) no-repeat scroll 6px 7px; }
+ul.list-9 li { background: transparent url(double-arrow.png) no-repeat scroll 6px 7px; }
 
-ul.list-10 li { background: transparent url(../images/arrow-2.png) no-repeat scroll 6px 5px; }
+ul.list-10 li { background: transparent url(arrow-2.png) no-repeat scroll 6px 5px; }
 
-ul.list-11 li { background: transparent url(../images/arrow-3-dark.png) no-repeat scroll 6px 5px; }
+ul.list-11 li { background: transparent url(arrow-3-dark.png) no-repeat scroll 6px 5px; }
 
 
 
@@ -3746,27 +3746,27 @@ ul#c3-slider li ul.list-11 li {
 
 }
 
-ul#c2-slider li ul.list-1 li, ul#c3-slider li ul.list-1 li { background: transparent url(../../common-images/tick-green.png) no-repeat scroll 0 7px !important; }
+ul#c2-slider li ul.list-1 li, ul#c3-slider li ul.list-1 li { background: transparent url(tick-green.png) no-repeat scroll 0 7px !important; }
 
-ul#c2-slider li ul.list-2 li, ul#c3-slider li ul.list-2 li { background: transparent url(../../common-images/tick-grey.png) no-repeat scroll 0 7px !important; }
+ul#c2-slider li ul.list-2 li, ul#c3-slider li ul.list-2 li { background: transparent url(tick-grey.png) no-repeat scroll 0 7px !important; }
 
-ul#c2-slider li ul.list-3 li, ul#c3-slider li ul.list-3 li { background: transparent url(../../common-images/exclamation.png) no-repeat scroll 0 7px !important; }
+ul#c2-slider li ul.list-3 li, ul#c3-slider li ul.list-3 li { background: transparent url(exclamation.png) no-repeat scroll 0 7px !important; }
 
-ul#c2-slider li ul.list-4 li, ul#c3-slider li ul.list-4 li { background: transparent url(../../common-images/thumb-up.png) no-repeat scroll 0 7px !important; }
+ul#c2-slider li ul.list-4 li, ul#c3-slider li ul.list-4 li { background: transparent url(thumb-up.png) no-repeat scroll 0 7px !important; }
 
-ul#c2-slider li ul.list-5 li, ul#c3-slider li ul.list-5 li { background: transparent url(../../common-images/lifeboy.png) no-repeat scroll 0 7px !important; }
+ul#c2-slider li ul.list-5 li, ul#c3-slider li ul.list-5 li { background: transparent url(lifeboy.png) no-repeat scroll 0 7px !important; }
 
-ul#c2-slider li ul.list-6 li, ul#c3-slider li ul.list-6 li { background: transparent url(../../common-images/calendar-task.png) no-repeat scroll 0 7px !important; }
+ul#c2-slider li ul.list-6 li, ul#c3-slider li ul.list-6 li { background: transparent url(calendar-task.png) no-repeat scroll 0 7px !important; }
 
-ul#c2-slider li ul.list-7 li, ul#c3-slider li ul.list-7 li { background: transparent url(../../common-images/pin.png) no-repeat scroll 0 7px !important; }
+ul#c2-slider li ul.list-7 li, ul#c3-slider li ul.list-7 li { background: transparent url(pin.png) no-repeat scroll 0 7px !important; }
 
-ul#c2-slider li ul.list-8 li, ul#c3-slider li ul.list-8 li { background: transparent url(../../common-images/clock.png) no-repeat scroll 0 7px !important; }
+ul#c2-slider li ul.list-8 li, ul#c3-slider li ul.list-8 li { background: transparent url(clock.png) no-repeat scroll 0 7px !important; }
 
-ul#c2-slider li ul.list-9 li, ul#c3-slider li ul.list-9 li { background: transparent url(../images/double-arrow.png) no-repeat scroll 6px 12px !important; }
+ul#c2-slider li ul.list-9 li, ul#c3-slider li ul.list-9 li { background: transparent url(double-arrow.png) no-repeat scroll 6px 12px !important; }
 
-ul#c2-slider li ul.list-10 li, ul#c3-slider li ul.list-10 li { background: transparent url(../images/arrow-2.png) no-repeat scroll 6px 10px !important; }
+ul#c2-slider li ul.list-10 li, ul#c3-slider li ul.list-10 li { background: transparent url(arrow-2.png) no-repeat scroll 6px 10px !important; }
 
-ul#c2-slider li ul.list-10 li, ul#c3-slider li ul.list-11 li { background: transparent url(../images/arrow-3-dark.png) no-repeat scroll 6px 10px !important; }
+ul#c2-slider li ul.list-10 li, ul#c3-slider li ul.list-11 li { background: transparent url(arrow-3-dark.png) no-repeat scroll 6px 10px !important; }
 
 
 
@@ -3832,13 +3832,13 @@ a.light-button {
 
 a.dark-button {
 
-    background:transparent url(../../common-images/dark-button-l.png) no-repeat scroll left top;
+    background:transparent url(dark-button-l.png) no-repeat scroll left top;
 
 }
 
 a.light-button {
 
-    background:transparent url(../../common-images/light-button-l.png) no-repeat scroll left top;
+    background:transparent url(light-button-l.png) no-repeat scroll left top;
 
     text-shadow: 0 1px #FFF;
 
@@ -3862,7 +3862,7 @@ a.light-button span {
 
 a.dark-button span {
 
-    background: transparent url(../../common-images/dark-button-r.png) no-repeat scroll right top;
+    background: transparent url(dark-button-r.png) no-repeat scroll right top;
 
     color: #FFF;
 
@@ -3870,7 +3870,7 @@ a.dark-button span {
 
 a.light-button span {
 
-    background: transparent url(../../common-images/light-button-r.png) no-repeat scroll right top;
+    background: transparent url(light-button-r.png) no-repeat scroll right top;
 
     color: #666;
 
@@ -3946,13 +3946,13 @@ a.small-light-button {
 
 a.small-dark-button {
 
-    background:transparent url(../../common-images/small-dark-button-l.png) no-repeat scroll left top;
+    background:transparent url(small-dark-button-l.png) no-repeat scroll left top;
 
 }
 
 a.small-light-button {
 
-    background:transparent url(../../common-images/small-light-button-l.png) no-repeat scroll left top;
+    background:transparent url(small-light-button-l.png) no-repeat scroll left top;
 
     text-shadow: 0 1px #FFF;
 
@@ -3978,7 +3978,7 @@ a.small-light-button span {
 
 a.small-dark-button span {
 
-    background: transparent url(../../common-images/small-dark-button-r.png) no-repeat scroll right top;
+    background: transparent url(small-dark-button-r.png) no-repeat scroll right top;
 
     color: #FFF;
 
@@ -3986,7 +3986,7 @@ a.small-dark-button span {
 
 a.small-light-button span {
 
-    background: transparent url(../../common-images/small-light-button-r.png) no-repeat scroll right top;
+    background: transparent url(small-light-button-r.png) no-repeat scroll right top;
 
     color: #666;
 
@@ -4062,13 +4062,13 @@ a.light-round-button {
 
 a.dark-round-button {
 
-    background:transparent url(../../common-images/dark-round-button-l.png) no-repeat scroll left top;
+    background:transparent url(dark-round-button-l.png) no-repeat scroll left top;
 
 }
 
 a.light-round-button {
 
-    background:transparent url(../../common-images/light-round-button-l.png) no-repeat scroll left top;
+    background:transparent url(light-round-button-l.png) no-repeat scroll left top;
 
     text-shadow: 0 1px #DDD;
 
@@ -4092,7 +4092,7 @@ a.light-round-button span {
 
 a.dark-round-button span {
 
-    background: transparent url(../../common-images/dark-round-button-r.png) no-repeat scroll right top;
+    background: transparent url(dark-round-button-r.png) no-repeat scroll right top;
 
     color: #FFF;
 
@@ -4100,7 +4100,7 @@ a.dark-round-button span {
 
 a.light-round-button span {
 
-    background: transparent url(../../common-images/light-round-button-r.png) no-repeat scroll right top;
+    background: transparent url(light-round-button-r.png) no-repeat scroll right top;
 
     color: #666;
 
@@ -4154,7 +4154,7 @@ a.light-round-button:focus, a.light-round-button:focus span {
 
 .custom-button:visited, .custom-button span:visited {
 
-    background: url("../../common-images/overlay.png") repeat-x scroll 0 0 #222222;
+    background: url("overlay.png") repeat-x scroll 0 0 #222222;
 
     display:inline-block;
 
@@ -4483,7 +4483,7 @@ height:0px;
 
     width: 100%;
 
-    background: url("../images/double-arrow.png") no-repeat scroll 3px 8px transparent;
+    background: url("double-arrow.png") no-repeat scroll 3px 8px transparent;
 
 }
 
@@ -4515,7 +4515,7 @@ height:0px;
 
 #bottom .widget_nav_menu li li {
 
-    background: url("../images/double-arrow.png") no-repeat scroll 13px 8px transparent;
+    background: url("double-arrow.png") no-repeat scroll 13px 8px transparent;
 
 }
 
@@ -4533,7 +4533,7 @@ height:0px;
 
 #bottom .widget_nav_menu li li li {
 
-    background: url("../images/double-arrow.png") no-repeat scroll 23px 8px transparent;
+    background: url("double-arrow.png") no-repeat scroll 23px 8px transparent;
 
 }
 
@@ -4551,7 +4551,7 @@ height:0px;
 
 #bottom .widget_nav_menu li li li li {
 
-    background: url("../images/double-arrow.png") no-repeat scroll 33px 8px transparent;
+    background: url("double-arrow.png") no-repeat scroll 33px 8px transparent;
 
 }
 
@@ -4919,7 +4919,7 @@ URL: http://www.webmaster-source.com/wp125-ad-plugin-wordpress/
 
 #before-content {
 
-    background:url("../../common-images/home-page-before-content-top.png") repeat-x scroll 0 0 #F8F8F8;
+    background:url("home-page-before-content-top.png") repeat-x scroll 0 0 #F8F8F8;
 
     display: block;
 
@@ -5056,7 +5056,7 @@ table.custom-table tfoot td {
 
 table.custom-table tbody td {
 
-    background: url('../images/back.png') repeat scroll transparent;
+    background: url(back.png') repeat scroll transparent;
 
 }
 
@@ -5295,7 +5295,7 @@ ul.small-thumb .teaser-content {
 
 h4.slide_toggle {
 
-    background: url("../images/toggle-images.png") no-repeat scroll -32px 0 transparent;
+    background: url("toggle-images.png") no-repeat scroll -32px 0 transparent;
 
     margin: 10px 0;
 
@@ -5307,7 +5307,7 @@ h4.slide_toggle {
 
 h4.clicked {
 
-    background: url("../images/toggle-images.png") no-repeat scroll -0px -30px transparent;
+    background: url("toggle-images.png") no-repeat scroll -0px -30px transparent;
 
 }
 
@@ -5329,7 +5329,7 @@ h4.slide_toggle a {
 
 .slide_toggle_content {
 
-    background: url("../images/toggle-content-bg.png") repeat scroll 0 0 transparent;
+    background: url("toggle-content-bg.png") repeat scroll 0 0 transparent;
 
     margin: 0 0 20px 40px;
 
@@ -5353,7 +5353,7 @@ h3.accordion-toggle {
 
         margin: 0 0 1px 0;
 
-	background: url(../images/accordian-title.png) no-repeat scroll 0 0 transparent;
+	background: url(accordian-title.png) no-repeat scroll 0 0 transparent;
 
 	height: 46px;
 
@@ -5407,7 +5407,7 @@ h3.accordion-toggle.active {
 
 	clear: both;
 
-	background: url("../images/accordian-content-bg.png") repeat scroll 0 0 transparent;
+	background: url("accordian-content-bg.png") repeat scroll 0 0 transparent;
 
 }
 
@@ -5531,7 +5531,7 @@ h3.accordion-toggle.active {
 
     clear:both;
 
-    background:url("../images/tab-content-bg.png") repeat scroll 0 0 transparent;
+    background:url("tab-content-bg.png") repeat scroll 0 0 transparent;
 
     width: 100%;
 
@@ -5631,7 +5631,7 @@ span.theme-color {
 
 #page-peel .msg_block {
 
-    background: url("../images/msg-block.png") no-repeat scroll right top transparent;
+    background: url("msg-block.png") no-repeat scroll right top transparent;
 
     height: 50px;
 
@@ -5667,7 +5667,7 @@ span.theme-color {
 
 #feedback a.feedback {
 
-    background: url("../images/feedback-btn.png") no-repeat scroll 0 0 transparent;
+    background: url("feedback-btn.png") no-repeat scroll 0 0 transparent;
 
     display: block;
 
